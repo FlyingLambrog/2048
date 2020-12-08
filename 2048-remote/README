@@ -1,0 +1,14 @@
+安装nodejs
+
+在当前文件夹下运行cmd
+
+输入命令“node wsServer.js”运行服务器
+
+打开index.html等待匹配
+
+开始后可选择难度“level”（双方统一）
+	1：简单
+	2：中等
+	3：困难
+
+任意一方点击“start game”开始

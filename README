@@ -1,0 +1,4 @@
+直接打开index.html文件选择版本
+
+若要选择联机版，先安装node.js
+	然后在"2048-remote"文件夹下运行命令行：node wsServer.js
